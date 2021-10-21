@@ -126,7 +126,7 @@ swiglpk==4.65.0
 sympy==1.4
 tabulate==0.8.3
 terminado==0.8.2
-babel == 2.3.4
+babel == 2.9.1
 testpath==0.4.2
 tornado==4.5.1
 traitlets==4.3.2
